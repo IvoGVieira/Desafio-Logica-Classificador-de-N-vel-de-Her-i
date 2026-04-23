@@ -26,4 +26,3 @@ if (xp <= 1000){
     console.log( "O Herói de nome " + nick + " está no nivel Radiante!")
 
 }
-console.log("Hello " + nick)
